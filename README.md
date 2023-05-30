@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abhay056
+- 👋 Hi, I’m Abhay
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning C/C++ and I know Python
 - 📫 How to reach me https://t.me/A_B_HA_Y
