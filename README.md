@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhay056
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C/C++ and I know Python
 - 📫 How to reach me https://t.me/A_B_HA_Y
 
 <!---
