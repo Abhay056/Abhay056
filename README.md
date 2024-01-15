@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Abhay
+- 👋 Hi, I’m Abhay Bahuguna
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C/C++ and I know Python
+- 🌱 I’m currently learning Java and I know Python, C, C++, HTML, CSS
 - 📫 How to reach me 
 https://linkedin.com/in/abhay-bahuguna-8399b1251
 <!---
