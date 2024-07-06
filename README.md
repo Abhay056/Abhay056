@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhay Bahuguna
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java and I know Python, C, C++, HTML, CSS
+- 🌱 I’m currently learning Web Development and I know Python, C, C++, Java, HTML, CSS, MySQL
 - 📫 How to reach me 
 https://linkedin.com/in/abhay-bahuguna-8399b1251 or my email id abjun504@gmail.com
 <!---
