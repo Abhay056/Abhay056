@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhay Bahuguna
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Web Development and I know Python, C, C++, Java, HTML, CSS, MySQL
+- 👀 I’m a sudent of BTech CSE 2022-2026
+- 🌱 I’m currently learning MERN and I know Python, C, C++, Java, R, HTML, CSS, MySQL
 - 📫 How to reach me 
 https://linkedin.com/in/abhay-bahuguna-8399b1251 or my email id abjun504@gmail.com
 <!---
