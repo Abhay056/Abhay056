@@ -2,7 +2,7 @@
 Abhay056/Abhay056 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h2 align="left">Hi 👋! My name is Abhay Bahuguna and I'm a Pre-final year student of B.Tech CSE, from Dehradun, Uttarakhand</h2>
+<h2 align="left">Hi 👋! My name is Abhay Bahuguna and I'm a Full Stack Developer from Dehradun, Uttarakhand</h2>
 
 ###
 
@@ -60,7 +60,7 @@ You can click the Preview link to take a look at your changes.
   <a href="mailto:abjun504@gmail.com" />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <a href="https://codeforces.com/profile/Abhay5055"/>
-  <img height="50px" width="300px" src="https://codeforces.org/s/44953/images/codeforces-sponsored-by-ton.png">
+  <img height="35px" width="200px" src="https://codeforces.org/s/44953/images/codeforces-sponsored-by-ton.png">
 </div>
 
 ###
