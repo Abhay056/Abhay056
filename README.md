@@ -59,7 +59,7 @@ You can click the Preview link to take a look at your changes.
   <a href="mailto:abjun504@gmail.com" />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <a href="https://codeforces.com/profile/Abhay5055"/>
-  <img height="35px" width="200px" src="https://codeforces.org/s/44953/images/codeforces-sponsored-by-ton.png">
+  <img width="120px" src="https://codeforces.org/s/44953/images/codeforces-sponsored-by-ton.png">
 </div>
 
 ###
